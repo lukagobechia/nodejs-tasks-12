@@ -1,0 +1,25 @@
+[
+  { "id": 1, "species": "Dog", "name": "Buddy", "age": 5, "isAdopted": true },
+  {
+    "id": 2,
+    "species": "Cat",
+    "name": "Whiskers",
+    "age": 3,
+    "isAdopted": false
+  },
+  {
+    "id": 3,
+    "species": "Rabbit",
+    "name": "Thumper",
+    "age": 2,
+    "isAdopted": true
+  },
+  {
+    "id": 4,
+    "species": "Bird",
+    "name": "Tweety",
+    "age": 1,
+    "isAdopted": false
+  },
+  { "id": 5, "species": "Fish", "name": "Goldie", "age": 1, "isAdopted": true }
+]
